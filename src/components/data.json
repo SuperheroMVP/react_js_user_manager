@@ -1,0 +1,38 @@
+[
+   {
+       "id":1,
+       "Name":"Dỗ Văn Hùng",
+       "Phone":"0396645809",
+       "Authorities":1
+   },
+   {
+    "id":2,
+    "Name":"Phan Văn Quang",
+    "Phone":"032354853",
+    "Authorities":2
+    },
+    {
+        "id":3,
+        "Name":"Nguyễn Ngọc Huyện",
+        "Phone":"04356143146",
+        "Authorities":3
+    },
+    {
+        "id":4,
+        "Name":"Ma Thị Sim",
+        "Phone":"13254861",
+        "Authorities":2
+    },
+    {
+        "id":5,
+        "Name":"Nguyễn Đức Đại",
+        "Phone":"132323645",
+        "Authorities":2
+    },
+    {
+        "id":6,
+        "Name":"Nguyễn Thị Hòa",
+        "Phone":"13236594",
+        "Authorities":3
+    }
+]
